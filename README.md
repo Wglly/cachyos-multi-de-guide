@@ -24,6 +24,7 @@ chmod +x scripts/*.sh
 ./scripts/install-kde.sh
 ./scripts/install-gnome.sh
 
+## 📁 仓库结构
 cachyos-multi-de-guide/
 ├── README.md                         # 仓库总览
 ├── docs/
