@@ -32,24 +32,3 @@ chmod +x scripts/*.sh
 ./scripts/install-hyprland.sh
 ./scripts/install-kde.sh
 ./scripts/install-gnome.sh
-
-## 📜 许可证
-
-### `.gitignore`
-
-```gitignore
-# 系统文件
-.DS_Store
-Thumbs.db
-
-# 编辑器
-*.swp
-*~
-.vscode/
-.idea/
-
-# 日志
-*.log
-
-# 临时备份
-*.bak
