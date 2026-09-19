@@ -1,5 +1,6 @@
-# CachyOS 安装后基础配置
+## CachyOS 安装后基础配置
 
+```bash
 1.文件系统
 
 sudo pacman -Syu
