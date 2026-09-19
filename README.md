@@ -21,6 +21,35 @@
 - Shell：Fish
 - 输入法：Fcitx5
 
+## 🛠️ 快速部署
+
+```bash
+git clone git@github.com:你的用户名/cachyos-multi-de-guide.git
+cd cachyos-multi-de-guide
+chmod +x scripts/*.sh
+# 按需选择
+./scripts/install-niri.sh
+./scripts/install-hyprland.sh
+./scripts/install-kde.sh
+./scripts/install-gnome.sh
+
 ## 📜 许可证
 
-MIT
+### `.gitignore`
+
+```gitignore
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*~
+.vscode/
+.idea/
+
+# 日志
+*.log
+
+# 临时备份
+*.bak
