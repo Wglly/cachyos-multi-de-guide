@@ -12,6 +12,14 @@
 - [Niri 配置](docs/06-niri-setup.md)
 - [常见问题排查](docs/07-troubleshooting.md)
 
+##🖥️ 环境
+系统：CachyOS (Arch Linux)
+内核：linux-cachyos
+桌面：KDE / GNOME / Hyprland / Niri
+终端：Kitty
+Shell：Fish
+输入法：Fcitx5
+
 ## 🛠️ 快速部署
 
 ```bash
