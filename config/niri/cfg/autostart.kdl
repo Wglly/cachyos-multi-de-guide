@@ -1,1 +1,2 @@
-
+spawn-at-startup "fcitx5" "-d"
+spawn-at-startup "waybar"
