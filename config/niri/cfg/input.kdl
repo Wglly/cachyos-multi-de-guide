@@ -1,1 +1,13 @@
+input {
+    keyboard {
+        xkb {
+            layout "us,cn"
+            options "grp:alt_shift_toggle"
+        }
+    }
 
+    touchpad {
+        tap
+        natural-scroll
+    }
+}
