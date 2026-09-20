@@ -1,1 +1,11 @@
-
+binds {
+    Mod+T { spawn "kitty"; }
+    Mod+Q { close-window; }
+    Mod+Shift+R { reload-config; }
+    Mod+Shift+S { screenshot; }
+    Mod+Shift+E { quit; }
+    Mod+Left { focus-column-left; }
+    Mod+Right { focus-column-right; }
+    Mod+Up { focus-window-up; }
+    Mod+Down { focus-window-down; }
+}
