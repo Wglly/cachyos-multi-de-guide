@@ -1,1 +1,21 @@
+// Niri 主配置文件
 
+include "./cfg/display.kdl"
+include "./cfg/keybinds.kdl"
+include "./cfg/input.kdl"
+include "./cfg/autostart.kdl"
+
+input {
+    keyboard {
+        xkb {
+            layout "us,cn"
+        }
+    }
+}
+
+layout {
+    gaps 8
+    center-focused-column "never"
+}
+
+prefer-no-csd
