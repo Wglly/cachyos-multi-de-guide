@@ -2,10 +2,11 @@
 set -e
 
 echo "==> 安装 KDE Plasma..."
-sudo pacman -S --needed plasma-meta kde-applications-meta
-
-echo "==> 启用 SDDM..."
+sudo pacman -S plasma-meta kde-applications-meta
 sudo systemctl enable --now sddm
+
+echo "==> 安装 Caelestia Shell (KDE 移植版)..."
+curl -fsSL https://raw.githubusercontent.com/ladybug-me/caelestia-dots-kde/main/install.sh | sh
 
 echo "==> 安装输入法..."
 sudo pacman -S --needed fcitx5 fcitx5-chinese-addons fcitx5-configtool
