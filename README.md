@@ -23,6 +23,7 @@
 
 ## 📁 仓库结构
 
+```bash
 cachyos-multi-de-guide/
 ├── README.md                         # 仓库总览
 ├── docs/
@@ -58,6 +59,7 @@ cachyos-multi-de-guide/
 └── assets/
     └── screenshots/                  # 桌面截图（可选）
 
+```
 ## 🛠️ 快速部署
 
 ```bash
