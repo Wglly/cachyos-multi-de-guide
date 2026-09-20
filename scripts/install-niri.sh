@@ -5,6 +5,9 @@ echo "==> 安装 Niri 及基础依赖..."
 sudo pacman -S --needed niri kitty fish fcitx5 fcitx5-chinese-addons \
     waybar fuzzel mako grim slurp wl-clipboard
 
+echo "==> 安装 Noctalia v5（CachyOS 官方仓库）..."
+sudo pacman -S --needed noctalia hyprpolkitagent playerctl
+
 echo "==> 安装常用软件..."
 sudo pacman -S --needed firefox fastfetch btop neovim git
 
