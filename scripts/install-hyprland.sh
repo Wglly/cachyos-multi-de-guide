@@ -5,6 +5,9 @@ echo "==> 安装 Hyprland 及依赖..."
 sudo pacman -S --needed hyprland kitty waybar fuzzel mako \
     grim slurp wl-clipboard xdg-desktop-portal-hyprland
 
+echo "==> 安装 Serpantinum..."
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ilyamiro/serpantinum/master/install/install.sh)"
+
 echo "==> 部署配置..."
 mkdir -p ~/.config/hypr
 cp -r config/hyprland/* ~/.config/hypr/
