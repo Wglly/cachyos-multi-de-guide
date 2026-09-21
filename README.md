@@ -65,7 +65,9 @@ cachyos-multi-de-guide/
 
 # Niri + Noctalia v5
 
-<img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=8453973726375931509&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="500">
+<img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=8453973726375931509&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="400">
+
+<img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=802223754582540481&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="400" >
 
 # KDE + Caelestia-shell
 
