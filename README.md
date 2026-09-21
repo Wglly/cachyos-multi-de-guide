@@ -68,8 +68,8 @@ cachyos-multi-de-guide/
 <img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=8453973726375931509&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="500"> <img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=802223754582540481&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="500" >
 
 ```bash
-系统:CachyOS Linux[x86/64]
-桌面窗口管理器:niri（Wayland)
+系统:CachyOS Linux（Arch）[x86/64]
+桌面窗口管理器:Niri（Wayland)
 桌面管理器:noctalia v5（beta）
 终端:kitty
 信息显示插件:fastfetch
@@ -81,6 +81,15 @@ cachyos-multi-de-guide/
 # KDE + Caelestia-shell
 
 <img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=3397339630343486962&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="500" >
+
+```bash
+系统:CachyOS Linux（Arch）[x86/64]
+桌面窗口管理器:KDE Plasma（Wayland)
+桌面管理器:Caelestia-shell
+终端:kitty
+信息显示插件:fastfetch
+后台任务监控插件:btm
+```
 
 ## 🛠️ 快速部署
 
