@@ -63,13 +63,10 @@ cachyos-multi-de-guide/
 
 ## 部分桌面配置展示
 
-| Niri + Noctalia v5 |
-|:---:|:---:|
-| ![Niri](assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=8453973726375931509&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg) |
+# Niri + Noctalia v5
 
-| KDE + Caelestia | 
-|:---:|:---:|
-| ![KDE](assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=3397339630343486962&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg) | 
+<img src="assets/screenshots/_cgi-bin_mmwebwx-bin_webwxgetmsgimg &MsgID=8453973726375931509&skey=@crypt_ce908158_3e61d8dd60867472b8a6b76096f01182&mmweb_appid=wx_webfilehelper.jpg" width="500">
+
 
 ## 🛠️ 快速部署
 
