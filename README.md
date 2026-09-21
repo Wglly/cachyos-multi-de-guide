@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Arch](https://img.shields.io/badge/Arch-Linux-1793D1?logo=archlinux)
+![Wayland](https://img.shields.io/badge/Wayland-compatible-green)
+![Desktop](https://img.shields.io/badge/Desktop-Niri%20%7C%20Hyprland%20%7C%20KDE%20%7C%20GNOME-purple)
 # CachyOS 多桌面配置与双系统指南
 
 本仓库记录了 CachyOS（Arch 系）与 Windows 10 双系统的安装步骤，以及 KDE Plasma、GNOME、Hyprland、Niri 四个桌面环境的完整配置方案。
