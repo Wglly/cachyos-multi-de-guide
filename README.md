@@ -120,6 +120,21 @@ cachyos-multi-de-guide/
 后台任务监控插件:btm
 ```
 
+#（特別）Niri + Noctalia v5 + Caelestia-Shell
+
+<img src="assets/screenshots/Screenshot from 2026-09-24 20-39-37.png" width="600">
+
+```bash
+系统:CachyOS Linux（Arch）[x86/64]
+桌面窗口管理器:Niri（Wayland)
+桌面管理器:noctalia v5（beta）+ Caelestia-Shell
+终端:kitty
+信息显示插件:fastfetch
+关于终端生成ASCII字符画的插件:chafa
+终端音乐播放器:trix
+后台任务监控插件:btm
+```
+
 ## 🛠️ 快速部署
 
 ```bash
