@@ -81,6 +81,31 @@ cachyos-multi-de-guide/
 终端音乐播放器:trix
 后台任务监控插件:btm
 ```
+# Hyprland + Serpantinum
+
+<img src="assets/creenshots/Screenshot_2026-09-24-203320.png" width="600">
+
+```bash
+系统:CachyOS Linux（Arch）[x86/64]
+桌面窗口管理器:Hyprland（Wayland)
+桌面管理器:Serpantinum
+终端:kitty
+信息显示插件:fastfetch
+后台任务监控插件:btm
+```
+# GNOME
+
+<img src="assets/assets/screenshots/微信图片_20260924202219_154_77.png" width="600">
+
+```bash
+系统:CachyOS Linux（Arch）[x86/64]
+桌面窗口管理器:Hyprland（Wayland)
+桌面管理器:Serpantinum
+终端:kitty
+信息显示插件:fastfetch
+后台任务监控插件:btm
+桌面插件：Dash to Dock;Blur my Shell;NotchNux
+```
 
 # KDE + Caelestia-shell
 
